@@ -1,0 +1,43 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th {
+    text-align: left;
+  }
+  #Vapaa {
+    background-color: #d6f5d6;
+  }
+  
+  th {
+    text-align: left;
+  }
+  #Matematiikka {
+    background-color: #ffe0cc;
+  }
+
+ th {
+    text-align: left;
+  }
+  #Ohjelmointi {
+    background-color: #cce0ff;
+  }
+  th {
+    text-align: left;
+  }
+  #Kuntosali {
+    background-color: #707e70;
+  }
+  th {
+    text-align: left;
+  }
+  #Aika {
+    background-color: #333;
+  }
+  #Aika {
+    background-color: #000000;
+  color: #fff;
+  }
+  th,td{
+    text-align: center;
+  }
